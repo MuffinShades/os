@@ -1,1 +1,1 @@
-Boar thingy for what to do
+Board thingy for what to do
