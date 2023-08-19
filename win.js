@@ -13,6 +13,7 @@ var Win = function(title, x, y, w, h, source, settings) {
     }
 
     let contentPane = document.createElement('div');
+    let frame = doucment.createElement('iframe');
 
     if (typeof settings !=' object') {
         settings = {};
